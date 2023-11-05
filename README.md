@@ -1,15 +1,15 @@
 # React JS Portfolio Website
 
-[🔗Live Demo🔗](https://rtaghizadev.vercel.app/)
+https://ajit-waghmode-portfolio.netlify.app/
 
-![Protfolio Website](src/assets/Portfolio%20preview.png)
 
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rasif-Taghizada/My-portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </div>
 
-<table align="center">
+<table align="center">![Portfolio preview](https://github.com/Ajitwaghmode/React-Portfolio-main/assets/92286897/6b8f8cbc-3dfa-4a85-97fb-7c4f07a6716a)
+
     <thead align="center">
         <tr border: 1px;>
             <td><b>Project Stats</td>
