@@ -4,7 +4,7 @@ https://ajit-waghmode-portfolio.netlify.app/
 
 ![Portfolio preview](https://github.com/Ajitwaghmode/React-Portfolio-main/assets/92286897/c0a3f500-c7b2-47bf-a734-b51e5e44d2e8)
 
-
+for full code email me waghmodeajit1102@gmail.com
 ## Features
 
 **📖 Single-Page Layout**
