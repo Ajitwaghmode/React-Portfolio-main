@@ -15,6 +15,30 @@ for full code email me waghmodeajit1102@gmail.com
 
 <br />
 
+
+Ajit Waghmode's Developer Portfolio
+🚀 Modern Portfolio Website Built with React
+
+Welcome to my personal portfolio website, crafted with React to showcase my skills, projects, and experience as a Data Engineer and Software Developer.
+
+Features:
+Interactive Design: Clean, modern, and fully responsive layout for seamless viewing across all devices.
+Project Showcase: Highlights of my top projects in data engineering, data analysis, and software development with detailed descriptions and links.
+Technologies Used: Built using React, CSS Modules, and GitHub Pages for deployment.
+Easy Navigation: User-friendly structure for effortless browsing of my professional journey.
+What You’ll Find:
+Data Engineering Expertise: Hands-on projects with Azure, Databricks, Power BI, SQL, and PySpark.
+Open Source Contributions: Insight into my GitHub projects and contributions.
+Contact Section: Easy ways to connect with me via email or LinkedIn.
+Why Check It Out?
+If you're looking for inspiration to create your own portfolio or want to learn how to build a professional, modern website with React, this project is for you!
+
+👉 Explore Now: https://ajit-waghmode-portfolio.netlify.app/
+
+Keywords for Search:
+React Portfolio, Developer Portfolio, Modern Web Portfolio, Data Engineer Portfolio, React Projects, GitHub Portfolio, Responsive Portfolio Website, Software Developer Portfolio
+
+
 ## 🚀 How to get started?
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
@@ -32,5 +56,3 @@ The page will reload if you make edits.
 <br />
 Feel free to contribute to this repo.
 
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
